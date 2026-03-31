@@ -79,7 +79,8 @@ This dashboard helps HR teams understand attrition patterns and take proactive s
 ---
 
 ## 📸 Dashboard Preview
-[Screenshot 2026-03-31 080739.png](https://github.com/ShubhaTheDataAnalyst/HR-Attrition-Dashboard/blob/main/Screenshot%202026-03-31%20080739.png?raw=true)
+<img width="1257" height="714" alt="image" src="https://github.com/user-attachments/assets/c8d60186-3ce7-4c21-b477-25ea28b7fe1f" />
+
 
 ---
 
