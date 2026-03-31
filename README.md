@@ -79,7 +79,7 @@ This dashboard helps HR teams understand attrition patterns and take proactive s
 ---
 
 ## 📸 Dashboard Preview
-
+Screenshot 2026-03-31 080739.png
 
 ---
 
